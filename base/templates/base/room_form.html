@@ -1,0 +1,26 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+
+<div>
+    <form method="POST" action="">
+        <!-- Token che viene usato ad ogni POST per questioni di sicurezza -->
+        {% csrf_token %}
+        {{form.as_p}}
+        <input type="submit" value="Submit"/>
+
+    </form>
+</div>
+
+
+
+
+{% endblock content %}
+
+
+
+
+
+
+
