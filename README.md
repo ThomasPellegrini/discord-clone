@@ -52,20 +52,11 @@ python manage.py runserver
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
 #
-
 ### App Preview :
-
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
 <p align="center">
   Feed Home
 </p>
-<img src="[![discord-clone-presentation.png](https://i.postimg.cc/43sHBM9x/discord-clone-presentation.png)](https://postimg.cc/Sn1KKgdB)">
-</td> 
 
-</table>
+[![discord-clone-presentation.png](https://i.postimg.cc/43sHBM9x/discord-clone-presentation.png)](https://postimg.cc/Sn1KKgdB)
 
 
