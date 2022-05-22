@@ -1,6 +1,6 @@
 <div align="center">
 
-# DiscordClone
+# DiscordClone <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" alt="azure" width="40" height="40"/> </a>
 </div>
 
 ### Cloning the repository
